@@ -1,0 +1,33 @@
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+*{
+  text-align: center;
+}
+
+li{
+  list-style-position: inside;
+  padding: 15px 0;
+}
+
+#breakthroughs{
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+
+#more-info{
+  padding-bottom: 25px;
+}
+
+#img-caption{
+  padding-top: 10px;
+}
+
+#h1-1{
+  padding-top: 15px;
+}
+
