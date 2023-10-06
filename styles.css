@@ -30,3 +30,8 @@ ul{
 *{
   text-align: center;
 }
+
+li{
+  padding: 15px 0;
+}
+
